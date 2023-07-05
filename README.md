@@ -1,4 +1,4 @@
-# Desafio_o3
+# Desafio_03
 
 O projeto deverá estar com um ambiente de testes configurado acessando o banco de dados H2, deverá usar
 Maven como gerenciador de dependência, e Java como linguagem.
