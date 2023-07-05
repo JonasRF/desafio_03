@@ -18,9 +18,11 @@ regras de validação são:
   - Data de nascimento: não pode ser data futura (dica: use @PastOrPresent)
 Atenção: crie um novo projeto para este trabalho. Não é para simplesmente acrescentar a classe
 Client no projeto feitos nas aulas.
-Atenção: lembre-se de que por padrão a JPA transforma nomes de atributos em camelCase para
+## Atenção: 
+lembre-se de que por padrão a JPA transforma nomes de atributos em camelCase para
 snake_case, como foi o caso do campo imgUrl das aulas, que no banco de dados tinha o nome
 img_url. Assim, o campo birthDate acima será criado no banco de dados como birth_date, então
 seu script SQL deverá seguir este padrão.
-Atenção: cuidado para não salvar no seu projeto arquivos e pastas que não devem ser salvas no Git,
+## Atenção: 
+cuidado para não salvar no seu projeto arquivos e pastas que não devem ser salvas no Git,
 tais como a pasta .metadata do Eclipse ou .idea do Intellij.
